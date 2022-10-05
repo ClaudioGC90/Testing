@@ -1,4 +1,12 @@
 desde la pc local
+<<<<<<< HEAD
 
 
 cambios desde local
+=======
+.
+.
+.
+.
+cambios desde el repo
+>>>>>>> refs/remotes/origin/main
